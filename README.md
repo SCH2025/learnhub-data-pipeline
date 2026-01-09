@@ -49,3 +49,11 @@ learnhub-data-pipeline/
 -[x] MongoDB 資料庫啟動
 -[x] Airflow 工作流編排工具啟動
 -[x] 測試 DAG 執行成功
+
+### Week 2: 資料庫 Schema 設計 ✨ NEW
+-[x] PostgreSQL Schema 建立（8 個資料表）
+-[x] PostgreSQL 索引和視圖建立
+-[x] MongoDB Collections 建立（3 個）
+-[x] MongoDB 索引建立
+-[ ] 資料字典文件完成
+-[ ] ERD 圖設計完成
